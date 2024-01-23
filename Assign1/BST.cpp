@@ -1,3 +1,7 @@
+/*          Name     :  Ihsit Singh
+            Class    :  3NC1
+            Roll No. :  102115023
+*/
 #include <bits/stdc++.h>
 using namespace std;
 
