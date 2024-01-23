@@ -1,4 +1,4 @@
-/*          Name     :  Ihsit Singh
+/*          Name     :  Ishit Singh
             Class    :  3NC1
             Roll No. :  102115023
 */
